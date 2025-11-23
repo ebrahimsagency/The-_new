@@ -1,0 +1,8 @@
+title: Your Agency Name
+description: Professional digital agency helping clients grow online.
+theme: minima
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
